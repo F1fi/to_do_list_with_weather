@@ -1,0 +1,29 @@
+class AppStrings{
+  static const title = 'Title';
+  static const type = 'Type';
+  static const create = 'Create task';
+  static const delete = 'Delete';
+  static const update = 'Update';
+  static const date = 'Date';
+  static const time = 'Time';
+  static const achieve = 'Achieve';
+  static const achieved = 'Achieved';
+  static const toDoList = 'ToDO list';
+  static const filters = 'Filters';
+  static const unachieved = 'Unachieved';
+  static const all = 'All';
+  static const description = 'Description';
+  static const work = 'Work';
+  static const life = 'Life';
+  static const hobby = 'Hobby';
+  static const other = 'Other';
+  static const achievements = 'Achievements';
+  static const types = 'Types';
+  static const anotherPage = 'Go to another page';
+  static const weather = 'Weather';
+  static const temperature = 'Temperature';
+  static const current = 'Current';
+  static const feels = 'Feels';
+  static const max = 'Max';
+  static const min = 'Min';
+}
